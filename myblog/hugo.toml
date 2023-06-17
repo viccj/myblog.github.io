@@ -1,4 +1,4 @@
-baseURL = 'https://viccj.github.io/myblog.github.io/myblog/'
+baseURL = '/'
 title = "Geekdocs"
 theme = "hugo-geekdoc"
 
