@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = '/ddddd'
 title = "Geekdocs"
 theme = "hugo-geekdoc"
 
