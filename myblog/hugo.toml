@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://viccj.github.io/'
 title = "Geekdocs"
 theme = "hugo-geekdoc"
 
