@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geekdocs</title>
-    <link>ttps://viccj.github.io/myblog.github.io/</link>
+    <link>https://viccj.github.io/myblog.github.io/</link>
     <description>Recent content on Geekdocs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Jun 2023 20:42:52 +0800</lastBuildDate><atom:link href="ttps://viccj.github.io/myblog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jun 2023 20:42:52 +0800</lastBuildDate><atom:link href="https://viccj.github.io/myblog.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post</title>
-      <link>ttps://viccj.github.io/myblog.github.io/posts/post.html</link>
+      <link>https://viccj.github.io/myblog.github.io/posts/post.html</link>
       <pubDate>Sat, 17 Jun 2023 20:42:52 +0800</pubDate>
       
-      <guid>ttps://viccj.github.io/myblog.github.io/posts/post.html</guid>
+      <guid>https://viccj.github.io/myblog.github.io/posts/post.html</guid>
       <description>hahaha</description>
     </item>
     
