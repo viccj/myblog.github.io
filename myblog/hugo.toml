@@ -1,5 +1,5 @@
 baseURL = 'ttps://viccj.github.io/myblog.github.io/'
-relativeUrls= true
+relativeURLs= true
 uglyurls= true
 title = "Geekdocs"
 theme = "hugo-geekdoc"
