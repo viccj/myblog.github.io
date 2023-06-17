@@ -1,4 +1,4 @@
-baseURL = 'https://viccj.github.io/myblog.github.io/'
+baseURL = ''
 relativeURLs= true
 uglyurls= true
 title = "Geekdocs"
