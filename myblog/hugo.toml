@@ -1,4 +1,6 @@
-baseURL = '/ddddd'
+baseURL = '/'
+relativeUrls= true
+uglyurls= true
 title = "Geekdocs"
 theme = "hugo-geekdoc"
 
